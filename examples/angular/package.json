@@ -15,7 +15,7 @@
     "@ai-sdk/angular": "2.0.69",
     "@ai-sdk/openai": "3.0.25",
     "@angular/common": "^20.3.2",
-    "@angular/compiler": "^20.3.2",
+    "@angular/compiler": "^20.3.16",
     "@angular/core": "^20.3.2",
     "@angular/forms": "^20.3.2",
     "@angular/platform-browser": "^20.3.2",
